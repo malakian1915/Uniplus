@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "26715450740",
+    "project_id": "mobiflix-2eec0",
+    "storage_bucket": "mobiflix-2eec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26715450740:android:dcf2ee6efbf23a02949021",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tela_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26715450740-7uhthcio1ath1oiv1s1foh21qgo5vtl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_tela_login",
+            "certificate_hash": "5ce42afa2324c0bce76168da4c5f5a903c64d9e2"
+          }
+        },
+        {
+          "client_id": "26715450740-lbrnmsta9enidtbgsavbbk74g6vt4urs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD44R7Lf-3DHb3wKovYoQ0n6zBs7rnhRTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26715450740-lbrnmsta9enidtbgsavbbk74g6vt4urs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26715450740-a55d4ko4g7uodafunnqbokl1907gtu8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTelaLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
